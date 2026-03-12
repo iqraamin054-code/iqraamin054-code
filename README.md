@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Iqra 👋
 
-<!--
-**iqraamin054-code/iqraamin054-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student learning web development.
 
-Here are some ideas to get you started:
+Currently learning:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:
+- Build real-world projects
+- Improve problem-solving skills
+- Become a frontend developer
