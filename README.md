@@ -1,7 +1,7 @@
 # Hi, I'm Iqra 👋
 
 💻 Aspiring Frontend Developer  
-🎓 Computer Science Student  
+🎓 Software Engineering Student  
 
 ## 🚀 Currently Learning
 - HTML
