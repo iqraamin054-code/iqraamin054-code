@@ -1,22 +1,26 @@
-# Hi, I'm Iqra 👋
+# Hi, I'm Iqra Amin 👋
 
-💻 Aspiring Frontend Developer  
 🎓 Software Engineering Student  
+💻 Aspiring Frontend Developer  
 
-## 🚀 Currently Learning
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+Passionate about learning web development and building structured beginner-level projects.
 
-## 🎯 Goals
-- Build real-world frontend projects
-- Improve problem-solving skills
-- Become a frontend developer
+---
 
-## 📂 Current Focus
-Building web development projects and improving coding consistency.
+### 🛠️ Skills I'm Learning
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
 
-## 📈 GitHub Journey
-Started my coding journey recently and am actively practicing to grow daily.
+### 🚀 Current Focus
+- Practicing web development fundamentals  
+- Building beginner-level projects
+- Improving problem-solving skills in JavaScript
+
+### 🎯 Goals
+To become a professional frontend developer and gain real-world development experience.
+
+### 📈 GitHub Journey
+I am documenting my learning journey through consistent practice and structured coding exercises.
 
