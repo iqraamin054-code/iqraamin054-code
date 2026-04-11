@@ -28,3 +28,6 @@ To become a professional frontend developer and gain real-world development expe
 ### 📈 GitHub Journey
 I am documenting my learning journey through consistent practice and structured coding exercises.
 
+### 🤝 Connect With Me
+- LinkedIn: [linkedin.com/in/iqraamin-dev](https://www.linkedin.com/in/iqraamin-dev)
+  
