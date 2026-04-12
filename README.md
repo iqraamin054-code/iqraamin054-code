@@ -1,33 +1,48 @@
 <p align="center">
-  <img src="Github portfolio.png" alt="Portfolio Banner" width="100%">
+  <img src="YOUR-IMAGE-LINK-HERE" alt="Portfolio Banner" width="100%">
 </p>
 
-# Hi, I'm Iqra Amin 👋
+# Hi, I'm Iqra Amin 👋  
+### Software Engineering Student | Aspiring Frontend Developer
 
-🎓 Software Engineering Student  
-💻 Aspiring Frontend Developer  
-
-Passionate about learning web development and building structured beginner-level projects.
+💡 Passionate about learning web development and building clean, structured beginner-level projects.
 
 ---
 
-### 🛠️ Skills I'm Learning
-- HTML5  
-- CSS3  
+## 🛠️ Skills
+- HTML  
+- CSS  
 - JavaScript  
 - Git & GitHub  
 
-### 🚀 Current Focus
+---
+
+## 🚀 Current Focus
 - Practicing web development fundamentals  
-- Building beginner-level projects
-- Improving problem-solving skills in JavaScript
+- Building beginner-friendly projects  
+- Improving JavaScript problem-solving skills  
 
-### 🎯 Goals
-To become a professional frontend developer and gain real-world development experience.
+---
 
-### 📈 GitHub Journey
-I am documenting my learning journey through consistent practice and structured coding exercises.
+## 🎯 Goals
+To become a skilled frontend developer and gain real-world experience through internships.
 
-### 🤝 Connect With Me
-- LinkedIn: [linkedin.com/in/iqraamin-dev](https://www.linkedin.com/in/iqraamin-dev)
-  
+---
+
+## 📌 Featured Projects
+
+### 📚 Book Store Website
+A beginner multi-page website built using HTML.
+
+🔗 View Project: https://github.com/iqraamin054-code/bookstore-website
+
+---
+
+## 📈 GitHub Journey
+I am documenting my learning journey through consistent practice and building structured web projects.
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/iqraamin-dev
+
