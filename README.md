@@ -32,7 +32,7 @@ To become a skilled frontend developer and gain real-world experience through in
 ## 📌 Featured Projects
 
 ### 📚 Book Store Website
-A beginner multi-page website built using HTML.
+A beginner multi-page website built using semantic HTML with navigation, tables, and a contact form.
 
 🔗 View Project: https://github.com/iqraamin054-code/bookstore-website
 
