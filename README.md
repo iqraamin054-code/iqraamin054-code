@@ -29,12 +29,28 @@ To become a skilled frontend developer and gain real-world experience through in
 
 ---
 
-## 📌 Featured Projects
+##📌 Featured Projects
 
 ### 📚 Book Store Website
+
 A beginner multi-page website built using semantic HTML with navigation, tables, and a contact form.
 
 🔗 View Project: https://github.com/iqraamin054-code/bookstore-website
+
+---
+
+### 📇 Contact Manager (JavaScript DOM Project)
+
+An interactive contact management application built using Vanilla JavaScript, DOM manipulation, and LocalStorage.
+
+✨ Features:
+
+* Add & delete contacts
+* Search/filter contacts
+* LocalStorage data persistence
+* Dynamic UI updates using DOM
+
+🔗 View Project: https://github.com/iqraamin054-code/contact-manager-js.git
 
 ---
 
