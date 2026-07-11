@@ -12,11 +12,25 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 I'm a **Software Engineering student** from **Karachi, Pakistan**, passionate about creating responsive and user-friendly web applications.
 
-I enjoy transforming ideas into clean, interactive interfaces while continuously learning modern frontend technologies. Through personal projects and my frontend internship, I've gained practical experience building real-world applications using **React, JavaScript, Redux Toolkit, Axios, and responsive web design.**
+I enjoy transforming ideas into clean, interactive interfaces while continuously learning modern frontend technologies. Through personal projects and my frontend internship, I've gained practical experience building real-world applications using **React, JavaScript, Redux Toolkit, Axios, Recharts, and responsive web development.**
+
+---
+
+# 📌 Quick Facts
+
+🎓 BS Software Engineering Student
+
+💼 Frontend Development Intern @ TEYZIXCORE
+
+🌱 Currently Learning React, SQL & Data Analytics
+
+📍 Karachi, Pakistan
+
+🎯 Seeking Frontend Development Internship Opportunities
 
 ---
 
@@ -31,9 +45,11 @@ I enjoy transforming ideas into clean, interactive interfaces while continuously
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-Web_API-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
 
@@ -45,11 +61,12 @@ I enjoy transforming ideas into clean, interactive interfaces while continuously
 
 **June 2026 – Present**
 
-- Built a **Business Intelligence Dashboard** using React and Redux Toolkit.
-- Developed responsive user interfaces for desktop, tablet, and mobile devices.
-- Integrated API data using Axios.
-- Built reusable React components.
+- Developed multiple frontend applications using HTML, CSS, JavaScript, and React.
+- Built a Business Intelligence Dashboard using React and Redux Toolkit.
+- Integrated REST APIs using Axios with loading, error, and empty-state handling.
+- Developed reusable React components for scalable UI.
 - Implemented interactive analytics charts using Recharts.
+- Created responsive layouts for desktop, tablet, and mobile devices.
 - Used Git & GitHub for version control and project management.
 
 ---
@@ -58,9 +75,9 @@ I enjoy transforming ideas into clean, interactive interfaces while continuously
 
 ## 📊 Business Intelligence Dashboard
 
-A modern analytics dashboard built with React.
+A modern analytics dashboard built with React for visualizing business performance and customer insights.
 
-### Features
+### ✨ Features
 
 - KPI Dashboard
 - Analytics Charts
@@ -70,59 +87,63 @@ A modern analytics dashboard built with React.
 - Pagination
 - Sorting
 - Light/Dark Theme
-- Fully Responsive
+- Fully Responsive Design
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-React • Redux Toolkit • Axios • Recharts • CSS
+React • Redux Toolkit • Axios • Recharts • CSS3 • Responsive Design
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/iqraamin054-code/business-intelligence-dashboard
+
+*(Live Demo coming soon)*
 
 ---
 
 ## 🚀 FlowSync
 
-A modern productivity and task management application.
+A modern productivity and task management application focused on clean UI and efficient workflow management.
 
-### Features
+### ✨ Features
 
 - User Authentication
 - Task Management
 - Dashboard
 - Responsive UI
-- LocalStorage
+- LocalStorage Persistence
 - Theme Switching
 - Clean Modern Interface
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-HTML • CSS • JavaScript • React
+HTML5 • CSS3 • JavaScript • React • LocalStorage
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/iqraamin054-code/FlowSync-React
+
+*(Live Demo coming soon)*
 
 ---
 
 ## 📇 Contact Manager
 
-A JavaScript application for managing contacts.
+A JavaScript application for managing contacts using DOM manipulation and LocalStorage.
 
-### Features
+### ✨ Features
 
 - Add Contacts
 - Delete Contacts
 - Search Contacts
 - LocalStorage Persistence
-- Dynamic DOM Rendering
+- Dynamic DOM Manipulation
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-HTML • CSS • JavaScript • LocalStorage
+HTML5 • CSS3 • JavaScript • LocalStorage
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/iqraamin054-code/contact-manager-js
 
@@ -134,7 +155,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 - Modern JavaScript
 - API Integration
 - State Management
-- Data Analytics (SQL)
+- SQL for Data Analytics
 
 ---
 
@@ -142,9 +163,9 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iqraamin054-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iqraamin054-code&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -152,17 +173,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqraamin054-code&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iqraamin054-code&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=iqraamin054-code&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -170,7 +181,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 # 📈 GitHub Activity
 
-[![Iqra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqraamin054-code&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Iqra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqraamin054-code&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -178,7 +189,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 📧 **Email**
 
-iqraamin054@gmail.com
+iqraamin087@gmail.com
 
 💼 **LinkedIn**
 
