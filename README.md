@@ -93,9 +93,7 @@ A modern analytics dashboard built with React for visualizing business performan
 
 React • Redux Toolkit • Axios • Recharts • CSS3 • Responsive Design
 
-🔗 **Repository**
-
-https://github.com/iqraamin054-code/business-intelligence-dashboard
+🔗 **Repository:** [Business Intelligence Dashboard](https://github.com/iqraamin054-code/business-intelligence-dashboard)
 
 ---
 
@@ -137,9 +135,7 @@ A JavaScript application for managing contacts using DOM manipulation and LocalS
 
 HTML5 • CSS3 • JavaScript • LocalStorage
 
-🔗 **Repository**
-
-https://github.com/iqraamin054-code/contact-manager-js
+🔗 **Repository:** [Contact Manager](https://github.com/iqraamin054-code/contact-manager-js)
 
 ---
 
