@@ -97,8 +97,6 @@ React • Redux Toolkit • Axios • Recharts • CSS3 • Responsive Design
 
 https://github.com/iqraamin054-code/business-intelligence-dashboard
 
-*(Live Demo coming soon)*
-
 ---
 
 ## 🚀 FlowSync
@@ -122,8 +120,6 @@ HTML5 • CSS3 • JavaScript • React • LocalStorage
 🔗 **Repository**
 
 https://github.com/iqraamin054-code/FlowSync-React
-
-*(Live Demo coming soon)*
 
 ---
 
@@ -163,7 +159,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iqraamin054-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=[iqraamin054-code](https://github.com/iqraamin054-code)&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -189,7 +185,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 📧 **Email**
 
-iqraamin087@gmail.com
+iqraamin054@gmail.com
 
 💼 **LinkedIn**
 
