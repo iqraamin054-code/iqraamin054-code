@@ -102,7 +102,7 @@ HTML • CSS • JavaScript • React
 
 🔗 Repository
 
-YOUR_FLOWSYNC_REPO_LINK
+https://github.com/iqraamin054-code/FlowSync-React
 
 ---
 
@@ -187,10 +187,6 @@ https://linkedin.com/in/iqraamin-dev
 💻 **GitHub**
 
 https://github.com/iqraamin054-code
-
-📍 **Location**
-
-Karachi, Pakistan
 
 ---
 
