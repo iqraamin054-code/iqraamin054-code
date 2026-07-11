@@ -178,7 +178,7 @@ https://github.com/iqraamin054-code/contact-manager-js
 
 📧 **Email**
 
-iqraamin087@gmail.com
+iqraamin054@gmail.com
 
 💼 **LinkedIn**
 
