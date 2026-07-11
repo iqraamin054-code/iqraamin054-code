@@ -117,9 +117,7 @@ A modern productivity and task management application focused on clean UI and ef
 
 HTML5 • CSS3 • JavaScript • React • LocalStorage
 
-🔗 **Repository**
-
-https://github.com/iqraamin054-code/FlowSync-React
+🔗 **Repository:** [FlowSync](https://github.com/iqraamin054-code/FlowSync-React)
 
 ---
 
@@ -156,16 +154,6 @@ https://github.com/iqraamin054-code/contact-manager-js
 ---
 
 # 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=[iqraamin054-code](https://github.com/iqraamin054-code)&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
