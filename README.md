@@ -153,9 +153,16 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Iqraamin054-code&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Iqraamin054-code&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Iqraamin054-code&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Iqraamin054-code&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Iqraamin054-code&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
