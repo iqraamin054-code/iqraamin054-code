@@ -153,7 +153,7 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=Iqraamin054-code&theme=tokyonight&show_icons=true&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=iqraamin054-code&theme=tokyonight&include_all_commits=false&count_private=false)
 
 <img height="170" src="https://streak-stats.demolab.com?user=Iqraamin054-code&theme=tokyonight&hide_border=true"/>
 
