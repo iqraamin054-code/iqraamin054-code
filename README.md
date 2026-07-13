@@ -153,6 +153,16 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 <div align="center">
 
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iqraamin054-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=iqraamin054-code&theme=tokyonight&hide_border=true"/>
 
 </div>
