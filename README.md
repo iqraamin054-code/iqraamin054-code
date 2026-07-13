@@ -153,8 +153,9 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iqraamin054-code&theme=tokyonight&hide_border=true"/>
-
+![](https://github-readme-stats.shion.dev/api?username=Iqraamin054-code&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Iqraamin054-code&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Iqraamin054-code&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
