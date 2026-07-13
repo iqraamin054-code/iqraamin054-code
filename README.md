@@ -151,17 +151,15 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<img height="170em" src="https://github-readme-stats.shion.dev/api?username=iqraamin054-code&theme=nightowl&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iqraamin054-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img height="170" src="https://streak-stats.demolab.com?user=iqraamin054-code&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=iqraamin054-code&theme=nightowl&hide_border=true"/>
 
-<br><br>
+<br>
 
-<img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=iqraamin054-code&layout=compact&theme=nightowl&hide_border=true"/>
 
 ---
 
