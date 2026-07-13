@@ -153,16 +153,6 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iqraamin054-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iqraamin054-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=iqraamin054-code&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -177,9 +167,9 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 # 📫 Connect With Me
 
-📧 Email: [iqraamin054@gmail.com](mailto:iqraamin054@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/iqraamin-dev](https://linkedin.com/in/iqraamin-dev)  
-💻 GitHub: [github.com/iqraamin054-code](https://github.com/iqraamin054-code)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqraamin054@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqraamin-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqraamin054-code)
 
 ---
 
