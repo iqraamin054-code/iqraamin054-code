@@ -165,7 +165,7 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 # 📈 GitHub Activity
 
-[![Iqra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqraamin054-code&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Iqra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqraamin054-code&theme=nightowl)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
