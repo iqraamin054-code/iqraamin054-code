@@ -167,17 +167,9 @@ HTML5 • CSS3 • JavaScript • LocalStorage
 
 # 📫 Connect With Me
 
-📧 **Email**
-
-iqraamin054@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/iqraamin-dev
-
-💻 **GitHub**
-
-https://github.com/iqraamin054-code
+📧 Email: [iqraamin054@gmail.com](mailto:iqraamin054@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/iqraamin-dev](https://linkedin.com/in/iqraamin-dev)  
+💻 GitHub: [github.com/iqraamin054-code](https://github.com/iqraamin054-code)
 
 ---
 
