@@ -73,67 +73,86 @@ I enjoy transforming ideas into clean, interactive interfaces while continuously
 
 # 📌 Featured Projects
 
-## 📊 Business Intelligence Dashboard
-
-A modern analytics dashboard built with React for visualizing business performance and customer insights.
-
-### ✨ Features
-
-- KPI Dashboard
-- Analytics Charts
-- API Integration
-- Search & Filtering
-- Customer Management Table
-- Pagination
-- Sorting
-- Light/Dark Theme
-- Fully Responsive Design
-
-### 🛠 Tech Stack
-
-React • Redux Toolkit • Axios • Recharts • CSS3 • Responsive Design
-
-🔗 **Repository:** [Business Intelligence Dashboard](https://github.com/iqraamin054-code/business-intelligence-dashboard)
-
----
-
 ## 🚀 FlowSync
 
-A modern productivity and task management application focused on clean UI and efficient workflow management.
+<div align="center">
+
+<img src="flowsync-demo.gif" width="90%" alt="FlowSync project demo">
+
+</div>
+
+A productivity workspace designed to turn project goals into structured workflows, actionable tasks, and measurable progress.
+
+**Project Goal → Workflow → Tasks → Progress**
 
 ### ✨ Features
 
-- User Authentication
-- Task Management
-- Dashboard
-- Responsive UI
-- LocalStorage Persistence
-- Theme Switching
-- Clean Modern Interface
+- Goal-based project workflows
+- Natural-language project goal input
+- Structured workflow generation
+- Task management with Todo, In Progress, and Completed states
+- Progress tracking based on actual task data
+- Workspace dashboard and project overview
+- Interactive progress visualizations
+- Theme personalization
+- Language preferences
+- LocalStorage persistence
+- Responsive product experience
 
 ### 🛠 Tech Stack
 
-HTML5 • CSS3 • JavaScript • React • LocalStorage
+**React** • **JavaScript (ES6+)** • **Redux Toolkit** • **React Router** • **Recharts** • **Framer Motion** • **CSS3** • **LocalStorage API**
 
 🔗 **Repository:** [FlowSync](https://github.com/iqraamin054-code/FlowSync-React)
 
 ---
 
-## 📇 Contact Manager
+## 📊 Business Intelligence Analytics Dashboard
 
-A JavaScript application for managing contacts using DOM manipulation and LocalStorage.
+A responsive analytics dashboard designed to help users monitor business performance through interactive KPIs, data visualizations, and customer insights.
+
+The dashboard brings key business metrics into one centralized workspace, making it easier to explore revenue, customer, order, growth, and conversion data.
 
 ### ✨ Features
 
-- Add Contacts
-- Delete Contacts
-- Search Contacts
-- LocalStorage Persistence
-- Dynamic DOM Manipulation
+- Interactive KPI cards
+- Revenue and sales analytics
+- Customer growth visualization
+- Category distribution charts
+- API integration with Axios
+- Loading, error, and empty states
+- Searchable customer table
+- Sorting and filtering
+- Pagination
+- Light and dark theme
+- Responsive design for desktop, tablet, and mobile
 
 ### 🛠 Tech Stack
 
-HTML5 • CSS3 • JavaScript • LocalStorage
+**React** • **JavaScript (ES6+)** • **Redux Toolkit** • **Axios** • **Recharts** • **CSS3** • **Responsive Design**
+
+🔗 **Repository:** [Business Intelligence Analytics Dashboard](https://github.com/iqraamin054-code/business-intelligence-dashboard)
+
+---
+
+## 📇 Contact Manager
+
+A lightweight JavaScript application for managing personal contacts through a clean and interactive interface.
+
+The project focuses on practicing DOM manipulation, event handling, data management, and browser storage.
+
+### ✨ Features
+
+- Add new contacts
+- Delete contacts
+- Search contacts
+- Dynamic contact list updates
+- LocalStorage persistence
+- Interactive DOM manipulation
+
+### 🛠 Tech Stack
+
+**HTML5** • **CSS3** • **JavaScript (ES6+)** • **DOM Manipulation** • **LocalStorage API**
 
 🔗 **Repository:** [Contact Manager](https://github.com/iqraamin054-code/contact-manager-js)
 
